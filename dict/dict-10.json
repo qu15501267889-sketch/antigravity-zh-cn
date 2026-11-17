@@ -1,0 +1,18 @@
+{
+  "The breakdown below shows token usage from customizations like rules, skills, and MCP. If a budget is exceeded, large rules are demoted to path pointers and large customizations are excluded automatically.": "下方明细展示来自规则、技能和 MCP 等自定义内容的令牌用量。超出预算时，较大的规则会被降级为路径指针，较大的自定义内容会被自动排除。",
+  "Breakdown": "明细",
+  "Show breakdown": "显示明细",
+  "Hide breakdown": "隐藏明细",
+  "Token budget": "令牌预算",
+  "Budget": "预算",
+  "Exceeded": "已超出",
+  "Within budget": "在预算内",
+  "Rules": "规则",
+  "Rule": "规则",
+  "MCP": "MCP",
+  "Customizations": "自定义",
+  "Path pointer": "路径指针",
+  "Excluded": "已排除",
+  "Included": "已包含",
+  "Demoted": "已降级"
+}

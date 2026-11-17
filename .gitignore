@@ -1,0 +1,14 @@
+# 运行时生成，不入库
+backup/
+build/
+node_modules/
+
+# 调试输出
+check-output.json
+misses-output.json
+*.log
+
+# 系统
+Thumbs.db
+.DS_Store
+desktop.ini
